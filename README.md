@@ -1,5 +1,5 @@
 # FunctionsExercises
-`10` exercises for understanding what is function presented in random order.
+`10` exercises for understanding what is function, presented in random order.
 
 Functions receive `2` or `3` arguments, arguments are functions themselves or `1` to `5` integers.  All functions perform only addition of arguments and always return a single integer.
 
